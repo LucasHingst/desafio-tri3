@@ -12,4 +12,4 @@
 
 1. Em um `<UL>` apresente todos os usuários cadastrados
 
-2. Crie um formulári oque adiciona um novo usuário
+2. Crie um formulário que adiciona um novo usuário

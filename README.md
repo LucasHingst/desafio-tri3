@@ -10,6 +10,6 @@
 
 #FRONT-END:
 
-1. Em um ```<UL>``` apresente todos os usuários cadastrados
+1. Em um `<UL>` apresente todos os usuários cadastrados
 
 2. Crie um formulárioque adiciona um novo usuário

@@ -1,10 +1,15 @@
 # Desafio-tri3
 
-Back-end
-1.criem um servidor com Bun.JS
-2.crie uma rota que adicione novos usuários
-3.crie uma rota que liste usuários
+#BACK-END:
 
-Front-end:
-1.
-2.
+1. Criem um servidor com Bun.JS
+
+2. Crie uma rota que adicione novos usuários
+
+3. Crie uma rota que liste usuários
+
+#FRONT-END:
+
+1. Em um <ul> apresente todos os usuários cadastrados
+
+2. Crie um formulárioque adiciona um novo usuário
